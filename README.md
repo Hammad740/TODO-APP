@@ -3,7 +3,9 @@ The Python Todo App with GUI using PySimpleGUI is a user-friendly task managemen
 
 Key Features:
 
-User-friendly GUI: The app boasts an intuitive interface that allows users to interact with their tasks in a visually appealing and straightforward manner. Task Creation: Users can effortlessly create new tasks by providing a title, description, priority level, due date, and any additional notes. Task Editing: Users can easily update task details, such as title, description, priority, due date, and notes, allowing them to adapt to changing requirements. Task Deletion: Deleting tasks is a breeze with the app's simple deletion feature, ensuring users can declutter their task lists effectively.
+User-friendly GUI: The app boasts an intuitive interface that allows users to interact with their tasks in a visually appealing and straightforward manner. Task Creation: Users can effortlessly create new tasks by providing a title, description, priority level, due date, and any additional notes. 
+Task Editing: Users can easily update task details, such as title, description, priority, due date, and notes, allowing them to adapt to changing requirements.
+Task Deletion: Deleting tasks is a breeze with the app's simple deletion feature, ensuring users can declutter their task lists effectively.
 
 Installation and Usage:
 
